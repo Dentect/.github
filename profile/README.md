@@ -1,6 +1,6 @@
 ![DENTECT](https://github.com/Dentect/.github/assets/75479353/2ccb60b6-2af5-4bdc-8ddb-bec2fdad2754)
 
-# Dental Diseases Detection
+# Dental Disease Detection based on CNN for Panoramic Dental Radiographs
 
 A website application that dentists can use to diagnose specific abnormalities in less time and with better accuracy using panoramic dental radiography.
 
