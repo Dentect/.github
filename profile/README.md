@@ -61,7 +61,7 @@ https://github.com/Dentect/.github/assets/75479353/1bd1008f-560c-4460-be1d-281e4
 
 ## Dataset
 
-* Data is available upon request, so contact us using through this [email](manar20191701213@cis.asu.edu.eg) and your request will be considered.
+* Data is available upon request, so contact us using through this [email](mailto:manar20191701213@cis.asu.edu.eg) and your request will be considered.
 
 <br/>
 
