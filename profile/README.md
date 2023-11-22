@@ -50,11 +50,11 @@ https://github.com/Dentect/.github/assets/75479353/1bd1008f-560c-4460-be1d-281e4
 <br/>
 
 ## Contributors
-* [Tassneem Hamdy](https://github.com/Tassneem04Hamdy)
-* [Heba Amr](https://github.com/hebaaamr)
-* [Manar El-Bagoury](https://github.com/manarelbagoury)
-* [Omar Ahmed](https://github.com/OmarAhmed01)
-* [Marwan Akram](https://github.com/marwanakram)
+* [Tassneem Hamdy](https://github.com/Tassneem04Hamdy) -> tasnim20191701053@cis.asu.edu.eg
+* [Heba Amr](https://github.com/hebaaamr) -> heba20191701249@cis.asu.edu.eg
+* [Manar El-Bagoury](https://github.com/manarelbagoury) -> manar20191701213@cis.asu.edu.eg
+* [Omar Ahmed](https://github.com/OmarAhmed01) -> omr20191701133@cis.asu.edu.eg
+* [Marwan Akram](https://github.com/marwanakram) -> marwan20191701185@cis.asu.edu.eg
 * [Mariam Attia](https://github.com/MariamAttia)
 
 <br/>
